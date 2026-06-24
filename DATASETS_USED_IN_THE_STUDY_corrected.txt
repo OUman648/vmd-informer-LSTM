@@ -1,0 +1,45 @@
+DATASETS USED IN THE STUDY
+
+Manuscript:
+Daily Drought Prediction in the Huaihe River Basin Using VMD-Informer-LSTM
+
+1. ERA5 daily meteorological variables
+
+Dataset name:
+ERA5 post-processed daily statistics on single levels from 1940 to present
+
+Data source / provider:
+Copernicus Climate Data Store (CDS), Copernicus Climate Change Service (C3S) / European Centre for Medium-Range Weather Forecasts (ECMWF)
+
+Official access link:
+https://cds.climate.copernicus.eu/datasets/derived-era5-single-levels-daily-statistics?tab=overview
+
+DOI:
+Not provided in the manuscript. Please refer to the official access link above.
+
+Variables used in the study:
+Daily actual evapotranspiration, potential evapotranspiration, surface pressure, cloud cover, maximum temperature, mean temperature, wind speed, and precipitation.
+
+Last access:
+23 June 2026
+
+
+2. Land-use data
+
+Dataset name:
+Chinese multi-period land use remote sensing monitoring dataset (CNLUCC)
+
+Data source / provider:
+Resource and Environment Science and Data Center, Chinese Academy of Sciences (RESDC)
+
+Official DOI page:
+https://www.resdc.cn/doi/doi.aspx?DOIid=54
+
+DOI:
+10.12078/2018070201
+
+Data used in the study:
+Land-use data for 2005, 2010, 2015, and 2020 with a spatial resolution of 1 km.
+
+Last access:
+23 June 2026
